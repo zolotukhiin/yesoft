@@ -1,0 +1,22 @@
+.competency-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    margin-top: 20px;
+}
+  
+.competency-card {
+    background-color: #050505;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+}
+  
+.competency-card h2 {
+    margin-top: 0;
+}
+  
+.competency-card p {
+    margin-bottom: 0;
+}
